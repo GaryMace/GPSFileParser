@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GPSFileParser" target="1.5" />
-      <module name="GPSFileParserService" target="1.5" />
+      <module name="GPSFileParser" target="1.8" />
+      <module name="GPSFileParserService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

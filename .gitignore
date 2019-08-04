@@ -1,0 +1,17 @@
+.project
+.idea
+.settings
+target
+.classpath
+*.pyc
+bin/
+build/
+include/
+lib/
+local/
+*.egg-info/
+.DS_Store
+logs/
+*.iml
+.checkstyle
+.factorypath
